@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hello! 👋
+
+I like biology AND computers. Not yet sure what else to put here.
 
 <!--
+### Hi there 👋
+
 **kelmu/kelmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
