@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I like biology AND computers. Not yet sure what else to put here.
+Current Bioinformatics student. I have a strong interest in the ways computer science and information technology can be leveraged to improve healthcare.
 
 <!--
 ### Hi there 👋
