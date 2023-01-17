@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-Current Bioinformatics student. I have a strong interest in the ways computer science and information technology can be leveraged to improve healthcare.
+Researcher. I have a strong interest in the ways computer science and information technology can be leveraged to improve healthcare.
 
 <!--
 ### Hi there 👋
